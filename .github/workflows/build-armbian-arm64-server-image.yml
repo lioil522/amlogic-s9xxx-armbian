@@ -198,6 +198,7 @@ on:
           - s905x3-x96air-gb
           - s905x3-x96max
           - s912
+          - s912-dangbei-b1s
           - s912-h96pro-plus
           - s912-m8s-pro
           - s912-nexbox-a1
@@ -210,7 +211,6 @@ on:
           - s912-tx9-pro-3g
           - s912-x92
           - s912-zyxq-fake
-          - s912-dangbei-b1s
           - s922x
           - s922x-ct2000
           - s922x-gtking
